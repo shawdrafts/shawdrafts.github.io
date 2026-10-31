@@ -6,7 +6,7 @@
     { k: ['service','offer','what do you do','kaam'],
       a: "I offer 4 services: ✍️ SEO blog writing, 🎨 Canva design (posts, carousels, posters), 🌐 WordPress websites, and 📈 Google Ads setup & management." },
     { k: ['hire','contact','work with','order','book'],
-      a: "You can hire me directly on Fiverr: fiverr.com/shawdrafts — or DM me on Instagram @ha_shaw_official. I reply fast!" },
+      a: "You can hire me on Fiverr: fiverr.com/shawdrafts — DM me on Instagram @ha_shaw_official — or WhatsApp me directly: wa.me/923284411298. I reply fast!" },
     { k: ['who','about','name','tum kaun'],
       a: "I'm Syed Haider Ali Shah Bukhari — a freelancer from Burewala, Pakistan, working with clients worldwide. 40+ certifications across HubSpot, Google, Canva and more." },
     { k: ['seo','blog','article','content'],
@@ -24,7 +24,7 @@
     { k: ['thank','shukriya'],
       a: "You're welcome! Anything else I can help with?" },
   ];
-  const FALLBACK = "Good question! For detailed answers, message me on Fiverr (fiverr.com/shawdrafts) or Instagram @ha_shaw_official — I reply personally. You can also ask about my services, pricing, or certifications.";
+  const FALLBACK = "Good question! Message me on Fiverr (fiverr.com/shawdrafts), Instagram @ha_shaw_official, or WhatsApp wa.me/923284411298 — I reply personally.";
 
   function reply(q) {
     q = q.toLowerCase();

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shawdrafts.github.io/sitemap.xml

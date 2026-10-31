@@ -53,6 +53,14 @@
       a: "Follow me: @ha_shaw_official — daily marketing tips, behind the scenes & updates!" },
     { k: ['facebook','fb'],
       a: "Find me on Facebook: ShawDrafts page + my personal profile. Links in the Find Me Everywhere section!" },
+    { k: ['social','follow'],
+      a: "Find me everywhere: shawdrafts.github.io/social.html — Instagram @ha_shaw_official, Facebook ShawDrafts, Fiverr @shawdrafts, GitHub @shawdrafts, LinkedIn, WhatsApp!" },
+    { k: ['google cert','skillshop'],
+      a: "17 Google Skillshop certs: Ads Search (94%), Creative (86%), Analytics, Display, Video, Shopping, Apps, 360 suite. Details + verification: shawdrafts.github.io/certs/google.html" },
+    { k: ['hubspot'],
+      a: "19 HubSpot Academy certs: Digital Marketing, Inbound, Social Media, Sales, RevOps + software certs. Full list: shawdrafts.github.io/certs/hubspot.html" },
+    { k: ['canva cert'],
+      a: "12 Canva Design School certificates — design, AI and marketing. List: shawdrafts.github.io/certs/canva.html" },
   ];
   const FALLBACK = "Good question! I can answer about: services, pricing, gigs, portfolio, delivery, revisions, reviews, contact. Or reach me directly: Fiverr fiverr.com/shawdrafts · WhatsApp wa.me/923284411298";
 

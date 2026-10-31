@@ -9,4 +9,6 @@
   <url><loc>https://shawdrafts.github.io/posts/followers-to-customers.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://shawdrafts.github.io/posts/revenue-operations.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://shawdrafts.github.io/gigs.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://shawdrafts.github.io/reviews.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://shawdrafts.github.io/contact.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>

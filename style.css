@@ -1,13 +1,13 @@
 /* ShawDrafts Blog — Premium Dark Theme */
 :root {
-  --bg: #080810;
-  --bg2: #0e0e1a;
-  --card: #12121f;
+  --bg: #16162a;
+  --bg2: #1c1c34;
+  --card: #23233f;
   --cyan: #00d4ff;
   --violet: #8b5cf6;
   --white: #f5f5fa;
-  --dim: #a0a0b8;
-  --border: #23233a;
+  --dim: #b9b9d2;
+  --border: #34345c;
 }
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body {
@@ -22,7 +22,7 @@ a:hover { text-decoration: underline; }
 /* Header */
 header {
   position: sticky; top: 0; z-index: 100;
-  background: #080810;
+  background: #16162a;
   border-bottom: 1px solid var(--border);
   padding: 1rem 2rem;
   display: flex; justify-content: space-between; align-items: center;
@@ -45,7 +45,7 @@ nav a:hover { color: var(--cyan); text-decoration: none; }
 }
 .hero::after {
   content: ''; position: absolute; inset: 0;
-  background: linear-gradient(90deg, rgba(8,8,16,.92) 20%, rgba(8,8,16,.45) 60%, rgba(8,8,16,.85));
+  background: linear-gradient(90deg, rgba(22,22,42,.92) 20%, rgba(22,22,42,.45) 60%, rgba(22,22,42,.85));
 }
 .hero-inner { position: relative; z-index: 2; max-width: 1100px; margin: 0 auto; padding: 4rem 2rem; width: 100%; }
 .hero h1 { font-size: 3.2rem; line-height: 1.1; margin-bottom: 1rem; }

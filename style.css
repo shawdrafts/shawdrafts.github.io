@@ -281,3 +281,4 @@ footer .flinks { margin: 1rem 0; display: flex; gap: 1.5rem; justify-content: ce
 /* --- Prevent horizontal overflow on all screens --- */
 html, body { overflow-x: hidden; max-width: 100%; }
 img { max-width: 100%; height: auto; }
+.brand-logo{height:34px;width:auto;display:block}

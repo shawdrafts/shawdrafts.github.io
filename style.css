@@ -41,6 +41,7 @@ nav a:hover { color: var(--cyan); text-decoration: none; }
   min-height: 480px;
   display: flex; align-items: center;
   background: url('images/hero.jpg') center/cover no-repeat, var(--bg);
+  background: url('images/hero.webp') center/cover no-repeat, var(--bg);
   width: 100%;
 }
 .hero::after {
